@@ -1,2 +1,3 @@
-# adversarial-machine-learning
-Adversarial Machine Learning in Cybersecurity
+# Defense Against Adversarial Machine Learning - 2019
+
+In recent years it has been shown that many systems of image recognition (Neural networks) are susceptible to adversary attacks, these are intentional modifications of the images, are imperceptible to the human eye, and lead to bad classification by the system, in other words they are like Optical illusions for systems. So it is extremely important to give robustness to the learning algorithms so that they can respond effectively against attacks, in this paper we seek to show some methods that can give robustness to the learning algorithms and can therefore be more effective in the process of classification.
